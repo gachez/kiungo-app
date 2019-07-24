@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "833401678110",
+    "firebase_url": "https://kiungoapp.firebaseio.com",
+    "project_id": "kiungoapp",
+    "storage_bucket": "kiungoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833401678110:android:4851e23e521c32cf",
+        "android_client_info": {
+          "package_name": "com.kiungoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833401678110-km1a9jvr3jk8psmg92lthsjcsf0evlc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbkbXv6zfrseNF0cbXPG8Y1RAXB8I3Wko"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

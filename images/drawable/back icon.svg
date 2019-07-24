@@ -1,0 +1,15 @@
+<svg id="back_icon" data-name="back icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #1a1a1a;
+      }
+    </style>
+  </defs>
+  <path id="back_background" data-name="back background" class="cls-1" d="M0,0H36V36H0Z"/>
+  <path id="back" class="cls-2" d="M26.291,14.3H9.536l7.32-7.32a1.512,1.512,0,0,0,0-2.13h0a1.494,1.494,0,0,0-2.115,0L4.856,14.731a1.494,1.494,0,0,0,0,2.115l9.885,9.885a1.494,1.494,0,0,0,2.115,0h0a1.494,1.494,0,0,0,0-2.115L9.536,17.3H26.291a1.5,1.5,0,0,0,1.5-1.5h0A1.5,1.5,0,0,0,26.291,14.3Z" transform="translate(2.209 2.204)"/>
+</svg>
